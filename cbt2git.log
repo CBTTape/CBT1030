@@ -1,0 +1,10 @@
+2023-08-06 01:03:21.754750 - Initialized conversion of CBT1030
+2023-08-06 01:03:22.843828 - Received CBT.V505.FILE1030.PDS from FILE1030.XMI 
+2023-08-06 01:03:22.846218 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE1030.PDS, moved to PDS/$$$#DATE
+2023-08-06 01:03:22.847257 - Found $README.txt (text/plain) in CBT.V505.FILE1030.PDS, moved to PDS/$README
+2023-08-06 01:03:22.848210 - Found @FIL1030.txt (text/plain) in CBT.V505.FILE1030.PDS, moved to PDS/@FIL1030
+2023-08-06 01:03:23.491279 - Found LOAD.xmi (application/xmit) in CBT.V505.FILE1030.PDS
+2023-08-06 01:03:23.508308   - Received RECFM=U data, stored XMIT file as CBT1030/LOAD.xmi
+2023-08-06 01:03:23.509397 - Found SQLITE0.rexx (text/plain) in CBT.V505.FILE1030.PDS, moved to PDS/SQLITE0
+2023-08-06 01:03:23.510456 - Found SQLITE1.rexx (text/plain) in CBT.V505.FILE1030.PDS, moved to PDS/SQLITE1
+2023-08-06 01:03:23.511404 - Found SQLITE2.rexx (text/plain) in CBT.V505.FILE1030.PDS, moved to PDS/SQLITE2
