@@ -1,12 +1,12 @@
-2025-04-13 13:27:03.419392 - Received CBT.V508.FILE1030.PDS from FILE1030.XMI 
-2025-04-13 13:27:03.420145 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE1030.PDS, moved to PDS/$$$#DATE
-2025-04-13 13:27:03.420217 - Found $README.txt (text/plain) in CBT.V508.FILE1030.PDS, moved to PDS/$README
-2025-04-13 13:27:03.420277 - Found @FIL1030.txt (text/plain) in CBT.V508.FILE1030.PDS, moved to PDS/@FIL1030
-2025-04-13 13:27:03.424573 - Found LOAD.xmi (application/xmit) in CBT.V508.FILE1030.PDS, moved to PDS/LOAD.xmi
-2025-04-13 13:27:04.137904 - Received SYSP.SQLITE.LOAD from LOAD.xmi 
-2025-04-13 13:27:04.139857 - Found DBS.bin (application/octet-stream) in SYSP.SQLITE.LOAD, moved to LOAD/DBS
-2025-04-13 13:27:04.141308 - Found SQLITE.bin (application/octet-stream) in SYSP.SQLITE.LOAD, moved to LOAD/SQLITE
-2025-04-13 13:27:04.142737 - Found SQLITE3A.bin (application/octet-stream) in SYSP.SQLITE.LOAD, moved to LOAD/SQLITE3A
-2025-04-13 13:27:04.144167 - Found SQLITE0.rexx (text/plain) in CBT.V508.FILE1030.PDS, moved to PDS/SQLITE0
-2025-04-13 13:27:04.144234 - Found SQLITE1.rexx (text/plain) in CBT.V508.FILE1030.PDS, moved to PDS/SQLITE1
-2025-04-13 13:27:04.144293 - Found SQLITE2.rexx (text/plain) in CBT.V508.FILE1030.PDS, moved to PDS/SQLITE2
+2025-04-13 16:25:23.296245 - Received CBT.V508.FILE1030.PDS from FILE1030.XMI 
+2025-04-13 16:25:23.297446 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE1030.PDS, moved to PDS/$$$#DATE
+2025-04-13 16:25:23.297614 - Found $README.txt (text/plain) in CBT.V508.FILE1030.PDS, moved to PDS/$README
+2025-04-13 16:25:23.297662 - Found @FIL1030.txt (text/plain) in CBT.V508.FILE1030.PDS, moved to PDS/@FIL1030
+2025-04-13 16:25:23.308326 - Found LOAD.xmi (application/xmit) in CBT.V508.FILE1030.PDS, moved to PDS/LOAD.xmi
+2025-04-13 16:25:24.008065 - Received SYSP.SQLITE.LOAD from LOAD.xmi 
+2025-04-13 16:25:24.013313 - Found DBS.bin (application/octet-stream) in SYSP.SQLITE.LOAD, moved to LOAD/DBS
+2025-04-13 16:25:24.017659 - Found SQLITE.bin (application/octet-stream) in SYSP.SQLITE.LOAD, moved to LOAD/SQLITE
+2025-04-13 16:25:24.022453 - Found SQLITE3A.bin (application/octet-stream) in SYSP.SQLITE.LOAD, moved to LOAD/SQLITE3A
+2025-04-13 16:25:24.024628 - Found SQLITE0.rexx (text/plain) in CBT.V508.FILE1030.PDS, moved to PDS/SQLITE0
+2025-04-13 16:25:24.024958 - Found SQLITE1.rexx (text/plain) in CBT.V508.FILE1030.PDS, moved to PDS/SQLITE1
+2025-04-13 16:25:24.025151 - Found SQLITE2.rexx (text/plain) in CBT.V508.FILE1030.PDS, moved to PDS/SQLITE2
